@@ -1,0 +1,15 @@
+AKIYAMA;Mariko;../donnees/photos/AKIYAMA_Mariko.jpg;Chimiste;Bando Chemical Industries, Ltd.;(+81) 03-6369-2100;(+81) 03-3719-2321;(+81) 03-3268-4251;mariko.akiyama@bci.jp;Kyobashi MID Bldg., 13-10, Kyobashi 2-chome, Chuo-ku;104-0031 ;Tokyo;Japon
+ARSENAULT;Kevin;../donnees/photos/ARSENAULT_Kevin.jpg;Couturier;Créacouture;03 20 13 23 89;03 20 13 23 78;03 20 13 56 19;kevin.a@creacouture.fr;20 rue de Royale;59000;Lille;France
+CUNNINGHAM;Alistair;../donnees/photos/CUNNINGHAM_Alistair.jpg;Directeur;JPMorgan Chase & Co. ;(+ 1) (212) 963-9978;(+ 1) (212) 963-9985;(+ 1) (212) 963-9976;alistair.cunningham@jpmorganchase.com;228 Park Ave S;10003-1502 ;New York, NY;Etats-Unis
+DANSEREAU;Isabelle;../donnees/photos/DANSEREAU_Isabelle.jpg;Professeure;INSEAD;01 60 72 75 26;01 85 72 75 26;01 95 72 75 26;isabelle.dansereau@insead.com;52 boulevard de Constance;75001;Paris;France
+DIALLO;Anatole;../donnees/photos/DIALLO_Anatole.jpg;Architecte;Adoubio;(+225) 45 89 48 75 ;(+225) 45 89 48 33;(+225) 45 89 48 96;anat.dial@adoubio.ci;5 rue des jardins;06 BP 1679;Abidjan;Côte d'Ivoire
+KRUIBEKE;Niels;../donnees/photos/KRUIBEKE_Niels.jpg;Développeur;Exporama;03 275 52 07;+32 5 523 2590 ;+32 5 531 9126 ;niels.kruibeke@obelux.be ;Grotesteenweg 481;B-2600;Berchem;Belgique
+LONDERZEEL;Wijnand;../donnees/photos/LONDERZEEL_Wijnand.gif;Graphiste;CBBD;+32 (0)2 219 19 80 ;+32 (0)2 219 23 76 ;+32 2 745 95 00 ;w.londerzeel@cbbd.be;Meersbloem - Leupegem 21;B 9700;Oudenaarde;Belgique
+McFLY;Gormlaith;../donnees/photos/McFLY_Gormlaith.jpg;Médecin;Aberdeen Maternity Hospital;+44 345 456 6000;+44 345 456 6001;+44 345 456 6002;gormlaith.mcfly@amh.uk;Cornhill Road, Foresterhill;AB25 2ZL ;Aberdeen;Royaume Uni
+OUELETTE;Jean-Guy;../donnees/photos/OUELETTE_Jean-Guy.png;Ornithologue;Ornithologie Caouette;450-445-0835;450-445-0834;450-445-0833;jg.ouelette@ornitho-caouette.ca;5640 boul Kimbe;J3Y 2Z2 ;Saint-Hubert, QC;Canada
+PLOUFFE;Martine;../donnees/photos/PLOUFFE_Martine.jpg;Scénariste;Warninger Studio;(514) 731-7810 ;(514) 731-7810 ;(514) 731-7810 ;martine.plouffe@warninger.ca;1405 rue Montcalm;H2L-3G6;Montréal, QC;Canada
+STICHELBOUT;Burhard;../donnees/photos/STICHELBOUT_Burhard.jpg;Restaurateur;Gorter;+32 3 313 79 91 ;+32 3 330 13 60;+32 3 330 13 60;b,stichelbout@gorter,be;122 Chaussée Montgomery;7611;La Glanerie;Belgique
+STINKENS;Marie-Anne;../donnees/photos/STINKENS_Marie-Anne.jpg;Ingénieure commercial;Gicom;+32 (0)3 231 75 61;+32 494 525252;+32 3 313 79 91;ma.stinkens@gicom.com;Lange Gang 14;B-2000;Anvers;Belgique
+TIMMERMANS;Godfried;../donnees/photos/TIMMERMANS_Godfried.jpg;Cuisinier;BLISS;+32 (0)2 2255625;+32 (0)4 2233555 ;+32 (0)2 2255584;godfried.timmermans@bliss,be;20 rue des Sables;1000;Bruxelles;Belgique
+TREMBLAY;Amelie;../donnees/photos/TREMBLAY_Amelie.jpg;Géologue; ; ; ; ; ; ; ; ;Canada
+VAILLANT;Sylvie;../donnees/photos/VAILLANT_Sylvie.png;Photographe; ; ; ; ; ; ; ; ;France
