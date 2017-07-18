@@ -10,6 +10,6 @@ OUELETTE;Jean-Guy;../donnees/photos/OUELETTE_Jean-Guy.png;Ornithologue;Ornitholo
 PLOUFFE;Martine;../donnees/photos/PLOUFFE_Martine.jpg;Scénariste;Warninger Studio;(514) 731-7810 ;(514) 731-7810 ;(514) 731-7810 ;martine.plouffe@warninger.ca;1405 rue Montcalm;H2L-3G6;Montréal, QC;Canada
 STICHELBOUT;Burhard;../donnees/photos/STICHELBOUT_Burhard.jpg;Restaurateur;Gorter;+32 3 313 79 91 ;+32 3 330 13 60;+32 3 330 13 60;b,stichelbout@gorter,be;122 Chaussée Montgomery;7611;La Glanerie;Belgique
 STINKENS;Marie-Anne;../donnees/photos/STINKENS_Marie-Anne.jpg;Ingénieure commercial;Gicom;+32 (0)3 231 75 61;+32 494 525252;+32 3 313 79 91;ma.stinkens@gicom.com;Lange Gang 14;B-2000;Anvers;Belgique
-TIMMERMANS;Godfried;../donnees/photos/TIMMERMANS_Godfried.jpg;Cuisinier;BLISS;+32 (0)2 2255625;+32 (0)4 2233555 ;+32 (0)2 2255584;godfried.timmermans@bliss,be;20 rue des Sables;1000;Bruxelles;Belgique
-TREMBLAY;Amelie;../donnees/photos/TREMBLAY_Amelie.jpg;Géologue; ; ; ; ; ; ; ; ;Canada
+TIMMERMANS;Godfried;../donnees/photos/TIMMERMANS_Godfried.jpg;Cuisinier;BLISS;+32 (0)2 2255625;+32 (0)4 2233555 ;+32 (0)2 2255584;godfried.timmermans@bliss.be;20 rue des Sables;1000;Bruxelles;Belgique
+TREMBLAY;Amélie;../donnees/photos/TREMBLAY_Amelie.jpg;Géologue;Commission géologique du Canada; ; ; ;amelie.tremblay@RNCn-gc.ca;490 rue de la Couronne, 3e étage;G1K 9A9;Québec, QC;Canada
 VAILLANT;Sylvie;../donnees/photos/VAILLANT_Sylvie.png;Photographe; ; ; ; ; ; ; ; ;France
